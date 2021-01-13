@@ -1,0 +1,158 @@
+.header {
+	display: grid;
+	grid-template-columns: 400px 1fr;
+	align-items: center;
+	/* border: 1px black solid; */
+	justify-content: space-between;
+}
+
+.header_logo {
+	width: 400px;
+	/* border: 1px black solid; */
+}
+
+.date_header {
+	font-family: sans-serif;
+	display: flex;
+	justify-content: center;
+	font-weight: 200;
+	font-size: 30px;
+	/* border: 1px black solid; */
+}
+
+.filters {
+	display: flex;
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	margin: 0 0px;
+	width: 100%;
+}
+
+.form {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	font-family: sans-serif;
+	font-size: 25px;
+	margin: 15px;
+	flex-direction: column;
+}
+
+.form_span {
+	font-family: sans-serif;
+	font-size: 15px;
+	margin-bottom: 3px;
+}
+
+.hotel {
+	width: 250px;
+	background-color: rgb(248, 248, 248);
+	margin: 20px;
+}
+
+.hotel_image_container {
+	width: inherit;
+}
+
+.hotel_image {
+	width: inherit;
+	border-radius: 8px;
+}
+
+.hotel_details {
+	padding: 15px;
+	align-items: center;
+	font-family: sans-serif;
+	border: 1px rgb(201, 198, 198) solid;
+	border-radius: 8px;
+}
+
+.hotel_name {
+	font-size: 15px;
+	font-weight: bold;
+	margin: 5px 10px 10px 0px;
+}
+
+.hotel_description {
+	font-size: 12px;
+	line-height: 20px;
+	margin-bottom: 15px;
+}
+
+.hotel_place {
+	font-size: 13px;
+	display: flex;
+	border: 1px transparent;
+	align-items: center;
+	margin: 13px 0px;
+}
+
+.hotel_place_icon {
+	padding: 4px 6px;
+	border-radius: 15px;
+	background-color: rgb(230, 230, 230);
+}
+
+.hotel_place_info {
+	padding: 8px 12px;
+	margin-left: 3px;
+	background-color: rgb(230, 230, 230);
+	border-radius: 5px;
+}
+
+.hotel_rooms {
+	font-size: 13px;
+	display: flex;
+	border: 1px transparent;
+	align-items: center;
+}
+
+.hotel_rooms_icon {
+	padding: 4px 6px;
+	border-radius: 15px;
+	background-color: rgb(230, 230, 230);
+}
+
+.hotel_rooms_info {
+	padding: 8px 12px;
+	margin-left: 3px;
+	background-color: rgb(230, 230, 230);
+	border-radius: 5px;
+}
+
+.hotel_price {
+	padding: 8px 12px;
+	border-radius: 5px;
+	font-size: 13px;
+	border: 1px transparent;
+	align-items: center;
+	background-color: rgb(230, 230, 230);
+	margin-left: 10px;
+}
+
+.hotel_reserve_container {
+	width: inherit;
+	margin-top: 4px;
+}
+
+.hotel_reserve_button {
+	border-radius: 8px;
+	border: 1px transparent;
+	height: 40px;
+	width: inherit;
+	font-family: sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+	color: white;
+	background-color: teal;
+}
+
+.hotels {
+	margin-top: 50px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
