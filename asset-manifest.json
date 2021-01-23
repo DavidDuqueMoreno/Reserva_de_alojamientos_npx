@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Reserva_de_alojamientos_npx/static/css/main.8f64f7a3.chunk.css",
+    "main.js": "/Reserva_de_alojamientos_npx/static/js/main.ec43a0d7.chunk.js",
+    "main.js.map": "/Reserva_de_alojamientos_npx/static/js/main.ec43a0d7.chunk.js.map",
+    "runtime-main.js": "/Reserva_de_alojamientos_npx/static/js/runtime-main.9173ea83.js",
+    "runtime-main.js.map": "/Reserva_de_alojamientos_npx/static/js/runtime-main.9173ea83.js.map",
+    "static/js/2.6128d9c1.chunk.js": "/Reserva_de_alojamientos_npx/static/js/2.6128d9c1.chunk.js",
+    "static/js/2.6128d9c1.chunk.js.map": "/Reserva_de_alojamientos_npx/static/js/2.6128d9c1.chunk.js.map",
+    "index.html": "/Reserva_de_alojamientos_npx/index.html",
+    "static/css/main.8f64f7a3.chunk.css.map": "/Reserva_de_alojamientos_npx/static/css/main.8f64f7a3.chunk.css.map",
+    "static/js/2.6128d9c1.chunk.js.LICENSE.txt": "/Reserva_de_alojamientos_npx/static/js/2.6128d9c1.chunk.js.LICENSE.txt",
+    "static/media/alto-atacama.a6846d24.jpg": "/Reserva_de_alojamientos_npx/static/media/alto-atacama.a6846d24.jpg",
+    "static/media/azur-real.9a591fc1.jpg": "/Reserva_de_alojamientos_npx/static/media/azur-real.9a591fc1.jpg",
+    "static/media/campo-tinto.f27bca75.jpg": "/Reserva_de_alojamientos_npx/static/media/campo-tinto.f27bca75.jpg",
+    "static/media/casa-higueras.0c6c7433.jpg": "/Reserva_de_alojamientos_npx/static/media/casa-higueras.0c6c7433.jpg",
+    "static/media/casa-turquesa.8e9179ce.jpg": "/Reserva_de_alojamientos_npx/static/media/casa-turquesa.8e9179ce.jpg",
+    "static/media/entre-cielos.671c5a26.jpg": "/Reserva_de_alojamientos_npx/static/media/entre-cielos.671c5a26.jpg",
+    "static/media/huacalera.7542bc14.jpg": "/Reserva_de_alojamientos_npx/static/media/huacalera.7542bc14.jpg",
+    "static/media/la-bamba-de-areco.0ccacda0.jpg": "/Reserva_de_alojamientos_npx/static/media/la-bamba-de-areco.0ccacda0.jpg",
+    "static/media/location.3df8330f.jpg": "/Reserva_de_alojamientos_npx/static/media/location.3df8330f.jpg",
+    "static/media/logo.ea981557.jpg": "/Reserva_de_alojamientos_npx/static/media/logo.ea981557.jpg",
+    "static/media/luma-casa-de-montana.0501710d.jpg": "/Reserva_de_alojamientos_npx/static/media/luma-casa-de-montana.0501710d.jpg",
+    "static/media/merced-del-alto.3daaee16.jpg": "/Reserva_de_alojamientos_npx/static/media/merced-del-alto.3daaee16.jpg",
+    "static/media/ponta-dos-ganchos.8ebdf1b2.jpg": "/Reserva_de_alojamientos_npx/static/media/ponta-dos-ganchos.8ebdf1b2.jpg",
+    "static/media/rincon-del-socorro.98161c62.jpg": "/Reserva_de_alojamientos_npx/static/media/rincon-del-socorro.98161c62.jpg",
+    "static/media/sainte-jeanne.4ff84aba.jpg": "/Reserva_de_alojamientos_npx/static/media/sainte-jeanne.4ff84aba.jpg",
+    "static/media/tierra-patagonia.aad2b011.jpg": "/Reserva_de_alojamientos_npx/static/media/tierra-patagonia.aad2b011.jpg",
+    "static/media/uxua-casa.ebf46cc5.jpg": "/Reserva_de_alojamientos_npx/static/media/uxua-casa.ebf46cc5.jpg",
+    "static/media/vik-chile.341113d7.jpg": "/Reserva_de_alojamientos_npx/static/media/vik-chile.341113d7.jpg",
+    "static/media/vila-da-santa.a64e91d2.jpg": "/Reserva_de_alojamientos_npx/static/media/vila-da-santa.a64e91d2.jpg",
+    "static/media/vira-vira.17468e7f.jpg": "/Reserva_de_alojamientos_npx/static/media/vira-vira.17468e7f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9173ea83.js",
+    "static/js/2.6128d9c1.chunk.js",
+    "static/css/main.8f64f7a3.chunk.css",
+    "static/js/main.ec43a0d7.chunk.js"
+  ]
+}
